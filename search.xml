@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>What&#39;s this?</title>
+      <link href="/posts/7675.html"/>
+      <url>/posts/7675.html</url>
+      
+        <content type="html"><![CDATA[<p>用来记录学习和反思✨</p><h2 id="Based-on-Hexo"><a href="#Based-on-Hexo" class="headerlink" title="Based on Hexo"></a>Based on Hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;xxx&quot;</span></span><br><span class="line">$ hexo clean</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo s</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>博客配置参考：</p><ul><li><a href="https://space.bilibili.com/372204786/channel/collectiondetail?sid=658132">是安知鱼哇-bilibili</a></li><li><a href="https://blog.anheyu.com/posts/sdxhu.html#post-comment">butterfly 重装日记 | 安知鱼</a></li><li><a href="https://www.wzhecnu.cn/categories/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/">博客教程 | 学习空间</a></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
