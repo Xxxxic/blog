@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -31,11 +42,11 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/pwa/manifest.json"/>
+      <url>/pwa/manifest.json</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[{"name":"安知鱼`Blog","short_name":"安知鱼","theme_color":"#3b70fc","background_color":"#3b70fc","display":"standalone","scope":"/","start_url":"/","icons":[],"splash_pages":null}]]></content>
       
     </entry>
     
