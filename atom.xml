@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Xxxxic</title>
+  <title>Xxxxic&#39;s Blog</title>
   
   
   <link href="https://blog.xxxxic.tech/atom.xml" rel="self"/>
   
   <link href="https://blog.xxxxic.tech/"/>
-  <updated>2024-03-24T06:49:30.344Z</updated>
+  <updated>2024-03-24T11:44:33.857Z</updated>
   <id>https://blog.xxxxic.tech/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="https://blog.xxxxic.tech/posts/7675.html"/>
     <id>https://blog.xxxxic.tech/posts/7675.html</id>
     <published>2023-06-08T03:40:40.000Z</published>
-    <updated>2024-03-24T06:49:30.344Z</updated>
+    <updated>2024-03-24T11:44:33.857Z</updated>
     
-    <content type="html"><![CDATA[<p>用来记录学习和反思✨</p><h2 id="Based-on-Hexo"><a href="#Based-on-Hexo" class="headerlink" title="Based on Hexo"></a>Based on Hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;xxx&quot;</span></span><br><span class="line">$ hexo clean</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo s</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>博客配置参考：</p><ul><li><a href="https://space.bilibili.com/372204786/channel/collectiondetail?sid=658132">是安知鱼哇-bilibili</a></li><li><a href="https://blog.anheyu.com/posts/sdxhu.html#post-comment">butterfly 重装日记 | 安知鱼</a></li><li><a href="https://www.wzhecnu.cn/categories/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/">博客教程 | 学习空间</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="Based-on-Hexo"><a href="#Based-on-Hexo" class="headerlink" title="Based on Hexo"></a>Based on Hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;xxx&quot;</span></span><br><span class="line">$ hexo clean</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo s</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>博客配置参考：</p><ul><li><a href="https://space.bilibili.com/372204786/channel/collectiondetail?sid=658132">是安知鱼哇-bilibili</a></li><li><a href="https://blog.anheyu.com/posts/sdxhu.html#post-comment">butterfly 重装日记 | 安知鱼</a></li><li><a href="https://www.wzhecnu.cn/categories/%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/">博客教程 | 学习空间</a></li><li><a href="https://haiyong.site/post/22e1d5da.html#%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4">Butterfly 主题美化（一） | 海拥</a></li><li><a href="https://haiyong.site/post/17c68aa7.html">Butterfly 主题美化（一） | 海拥</a></li><li><a href="https://akilar.top/posts/615e2dec/">Iconfont Inject | Akilarの糖果屋</a></li><li><a href="https://www.fomal.cc/posts/3451f874.html#20-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93%E5%92%8C%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F">Hexo博客搭建基础教程(三) | Fomalhaut🥝</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;用来记录学习和反思✨&lt;/p&gt;
-&lt;h2 id=&quot;Based-on-Hexo&quot;&gt;&lt;a href=&quot;#Based-on-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Based on Hexo&quot;&gt;&lt;/a&gt;Based on Hexo&lt;/h2&gt;&lt;figure cla</summary>
+    <summary type="html">&lt;h2 id=&quot;Based-on-Hexo&quot;&gt;&lt;a href=&quot;#Based-on-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Based on Hexo&quot;&gt;&lt;/a&gt;Based on Hexo&lt;/h2&gt;&lt;figure class=&quot;highlight bash</summary>
       
     
     
